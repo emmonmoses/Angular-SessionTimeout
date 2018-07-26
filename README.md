@@ -1,12 +1,12 @@
 # SessionTimeOut
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
 ## Development server
 
-Start the server using command -  `ng serve`.
+Start the server using command -  `ng serve` or `npm start`.
 
-## Steps to setup Angular project to monitor idle user
+## The Steps to setting-up this project to monitor an idle user
 
 1. Create Angular CLI project
 2. Install below mentioned packages
