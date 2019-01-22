@@ -8,7 +8,7 @@ Start the server using command -  `ng serve` or `npm start`.
 
 ## The Steps to setting-up this project to monitor an idle user
 
-1. Create Angular CLI project
+1. Open the downloaded project folder
 2. Install below mentioned packages
 
     i. npm install --save @ng-idle/core
